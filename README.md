@@ -20,7 +20,7 @@ I’m passionate about building scalable applications and integrating AI to crea
 ---
 
 ### 📌 Featured Projects
-- **[vra-llm](https://vra-llm.vercel.app)** – A large Language Model Fine-tuned to provide relevant information to employees **HTML, ** **CSS ** **Javascript** **python** & **OpenAI**.
+- **[vra-llm](https://vra-llm.vercel.app)** – A large Language Model Fine-tuned to provide relevant information to employees **HTML** **CSS** **Javascript** **python** & **OpenAI**.
 - **[Project Register]** – Enterprise project management system for Volta River Authority.
 - **[Nature's Nook](https://naturesnookk.netlify.app/)** – A plant-selling web app built with **HTML** **CSS** & **Javascript**.
 - **[FashionHub AI](https://github.com/yourusername/fashionhub-ai)** – AI-powered virtual stylist using **LangChain** & **OpenAI**.
