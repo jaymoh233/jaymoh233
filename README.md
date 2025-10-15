@@ -20,9 +20,11 @@ I’m passionate about building scalable applications and integrating AI to crea
 ---
 
 ### 📌 Featured Projects
-- **[Nature's Nook](https://github.com/yourusername/natures-nook)** – A plant-selling web app built with **.NET Core** & **SQL Server**.
+- **[vra-llm](https://github.com/jaymoh233/VRA_LLM_Backend)** – A large Language Model Fine-tuned to provide relevant information to employees **HTML, ** **CSS ** **Javascript** **python** & **OpenAI**.
+- **[Project Register]** – Enterprise project management system for Volta River Authority.
+- **[Nature's Nook](https://github.com/jaymoh233/NaturesNook)** – A plant-selling web app built with **HTML, ** **CSS ** & **Javascript**.
 - **[FashionHub AI](https://github.com/yourusername/fashionhub-ai)** – AI-powered virtual stylist using **LangChain** & **OpenAI**.
-- **[Project Register](https://github.com/yourusername/project-register)** – Enterprise project management system for organizations.
+
 
 ---
 
@@ -34,17 +36,4 @@ I’m passionate about building scalable applications and integrating AI to crea
 ---
 ⭐ **“Code. Learn. Innovate.”**
 
-<!--
-**jaymoh233/jaymoh233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
